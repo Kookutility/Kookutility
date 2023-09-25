@@ -1,7 +1,7 @@
-
+<div>
 ![Kookutility's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kookutility&show_icons=true&theme=radical)
   <a href="https://github.com/Kookutility" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=black"/></a>
-
+</div>
 
 
 Logy의 개발/기획 팀장 국현우입니다.
