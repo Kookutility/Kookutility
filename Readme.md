@@ -1,14 +1,14 @@
-<div>
+
 ![Kookutility's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kookutility&show_icons=true&theme=radical)
   <a href="https://github.com/Kookutility" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=black"/></a>
-</div>
+
 
 
 Logy의 개발/기획 팀장 국현우입니다.
 <br><br>
-항공소프트웨어공학과 재학 중
+항공소프트웨어공학과 재학 중에있고
 <br>
-Back-End Engineer, Front-End Engineer,pM(Project/Product Manager), 
+Back-End Engineer, Front-End Engineer,PM(Project/Product Manager)역할을 맡고 있습니다.
 <br><br>
 끊임없이 새로운 분야의 공부를 하고 있으며, 
 현재는 **Machinelearning Engineer** 를 위해 나아가고 있습니다.
