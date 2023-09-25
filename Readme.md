@@ -1,8 +1,10 @@
-<div>
-![Kookutility's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kookutility&show_icons=true&theme=radical)
-  <a href="https://github.com/Kookutility" target="_blank"><img src="https://img.shields.io/badge/GitHub-6AD0C5.svg?style=flat-square&logo=GitHub&logoColor=black"/></a>
-</div>
 
+</div>
+##  Git Status
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kookutility)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+![Kookutility's github stats](https://github-readme-stats.vercel.app/api?username=Kookutility&show_icons=true&theme=merko)
+[![Kookutility's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kookutility&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=merko)](https://github.com/Kookutility)
 
 Logy의 개발/기획 팀장 국현우입니다.
 <br><br>
