@@ -1,6 +1,6 @@
 
 </div>
-##  Git Status
+##Git Status
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kookutility)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![Kookutility's github stats](https://github-readme-stats.vercel.app/api?username=Kookutility&show_icons=true&theme=merko)
@@ -8,7 +8,7 @@
 
 
 <br><br>
-항공소프트웨어공학과 재학 중
+항공소프트웨어공학과 재학 중/ 풀스택 개발
 <br>
 
 <br><br>
