@@ -8,7 +8,7 @@
 
 
 <br><br>
-항공소프트웨어공학과 재학 중/ 풀스택 개발
+항공소프트웨어공학과 재학 중/ 백엔드 개발(SpringBoot)/드론제어(gazebo, python, yolov5, matlab, Ros) 
 <br>
 
 <br><br>
