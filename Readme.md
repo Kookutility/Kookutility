@@ -8,7 +8,7 @@
 
 
 <br><br>
-항공소프트웨어공학과 재학 중/ 백엔드 개발(SpringBoot)/영상 처리 및 드론제어(gazebo, python, yolov5, matlab, Ros)/
+항공소프트웨어공학과 재학 중 영상 처리 및 드론제어(gazebo, python, yolov5, matlab, Ros)/
 <br>
 
 <br><br>
