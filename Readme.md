@@ -3,12 +3,12 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kookutility)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![Kookutility's github stats](https://github-readme-stats.vercel.app/api?username=Kookutility&show_icons=true&theme=merko)
 [![Kookutility's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kookutility&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=merko)](https://github.com/Kookutility)
 
+![현수막](https://github.com/Kookutility/Kookutility/assets/133517150/5ddec6b7-b48d-44b7-9136-3a73a11c7331)
 
 <br><br>
-### 항공소프트웨어공학과 재학 2024년 예비창업패키지 선정 기업 LOGY 대표, 컴퓨터 비전, 딥러닝, 메타버스, 로보틱스에 관심을 가지고 있는 기획 & 개발자입니다.
+### 항공소프트웨어공학과 재학중이며/n 2024년 예비창업패키지 선정 기업 LOGY 대표입니다./n 컴퓨터 비전, 딥러닝, 메타버스, 로보틱스 기획 & 개발에 관심을 가지고 있습니다 .
 <br>
 
 <br><br>
