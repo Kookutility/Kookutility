@@ -3,7 +3,6 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kookutility)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Kookutility's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kookutility&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=merko)](https://github.com/Kookutility)
 
 ![현수막](https://github.com/Kookutility/Kookutility/assets/133517150/5ddec6b7-b48d-44b7-9136-3a73a11c7331)
 
